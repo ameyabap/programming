@@ -70,6 +70,8 @@ public class TheGridSearch {
 		}
 		return true;
 	}
+	
+	
 	public static void main(String[] args) {
 		//System.out.println(new TheGridSearch().gridSearch(new String[] {"1234","4321","9999","9999"},new String[] {"21", "99"}));
 		//System.out.println(new TheGridSearch().lengthOfLongestSubstring("aab"));
